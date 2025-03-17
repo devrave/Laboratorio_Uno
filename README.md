@@ -1,6 +1,8 @@
 # Instructions  
 Write a program that prints the first 1000 numbers of FizzBuzz. Output should look like this:
 
+# Evidencia de resolución
+![alt text](image.png)
 
 
 ```
